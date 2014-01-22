@@ -1,0 +1,29 @@
+usb-ircontrol (0.2-20140104-0yavdr0~precise) precise; urgency=medium
+
+  * rebuild and rework for yaVDR
+
+ -- Alexander Grothe <seahawk1986@gmx.de>  Fri, 17 Jan 2014 12:33:54 +0100
+
+easyvdr-usb-ircontrol (0.2-20140104-0easyVDR0~trusty) trusty; urgency=high
+
+  * repeat2
+
+ -- easyVDR-Developer <easyvdr-dev@easy-vdr.de>  Mon, 06 Jan 2014 09:26:36 +0100
+
+easyvdr-usb-ircontrol (0.2-20140103-0easyVDR0~trusty) trusty; urgency=high
+
+  * repeat option
+
+ -- easyVDR-Developer <easyvdr-dev@easy-vdr.de>  Fri, 03 Jan 2014 19:57:59 +0100
+
+easyvdr-usb-ircontrol (0.1-20120520-0easyVDR4~trusty) trusty; urgency=high
+
+  * renamed package
+
+ -- easyVDR-Developer <easyvdr-dev@easy-vdr.de>  Sun, 29 Dec 2013 17:48:13 +0100
+
+usb-ircontrol (0.1-20120520-0easyVDR3~trusty) trusty; urgency=high
+
+  * Initial release, changed usb id
+
+ -- easyVDR-Developer <easyvdr-dev@easy-vdr.de>  Wed, 20 Nov 2013 15:58:08 +0100
